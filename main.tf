@@ -1,7 +1,7 @@
 # Configure aws provider
 provider "aws" {
-  access_key = ""
-  secret_key = ""
+  access_key = "" #enter your aws access_key
+  secret_key = "" #enter your aws secret_key
   region     = "us-east-1" # Replace with your desired AWS region
   #profile = "Admin"
 }
